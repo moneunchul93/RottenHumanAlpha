@@ -8,6 +8,7 @@ public class Person {
     private char name;
     private int age;
     private int year,month,date;
+    private int star;
 
     Date d = new Date();
     System.out.println(d);
